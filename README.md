@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
+[![MasterHead](https://github.com/Data-Fenix/Data-Fenix/blob/main/PNG%20format%20(2).png)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, We are Data Fenix</h1>
 <h3 align="center">We will help to solve all your Statistics, Data Scinece and AWS ML related questions !!</h3>
 
