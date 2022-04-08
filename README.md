@@ -1,5 +1,5 @@
-[![MasterHead](https://github.com/Data-Fenix/Data-Fenix/blob/main/PNG%20format%20(2).png)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, We are Data Fenix</h1>
+[![MasterHead](https://github.com/Data-Fenix/Data-Fenix/blob/main/PNG%20format%20(2).png)](https://Data-Fenix.github.io)
+<h1 align="center">Hi 👋, We are Data Fenix👋</h1>
 <h3 align="center">We will help to solve all your Statistics, Data Scinece and AWS ML related questions !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
@@ -7,9 +7,9 @@
 
 - 👨‍💻 You can also check out my portfolio at [https://khushboogoel01.github.io/](https://khushboogoel01.github.io/)
 
-- 📫 How to reach me **talktokhushboogoel@gmail.com**
+- 📫 How to reach me **datafenix360@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ We are expert in **Building E2E Pipelines | Data Visualization | Data Analytics | Data Science | Modeling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
