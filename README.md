@@ -22,7 +22,7 @@
 -->
 - We are expert in : 
 <p><img align="center" src="https://github.com/Data-Fenix/Data-Fenix/blob/main/tool%20set.png" alt="toolset" height="90" width = "400"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Data-Fenix&show_icons=true&locale=en&layout=compact" alt="data-fenix" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Data-Fenix&show_icons=true&locale=en&layout=compact" alt="data-fenix" width = "400"/><//></p>
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Data-Fenix&show_icons=true&locale=en" alt="khushboogoel01" /></p>-->
