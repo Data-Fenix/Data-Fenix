@@ -2,14 +2,19 @@
 <h1 align="center">Hi 👋, We are Data Fenix👋</h1>
 <h3 align="center">We will help to solve all your Statistics, Data Scinece and AWS ML related questions !!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Data-Fenix&label=Profile%20views&color=129e00&style=plastic" alt="Data-Fenix" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Data-Fenix&label=Profile%20views&color=129e00&style=plastic" alt="Data-Fenix" /> </p>-->
+<img align="right" alt="Coding" width="400" height="600" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👨‍💻 You can also check out our portfolio at [https://Data-Fenix.github.io/](https://Data-Fenix.github.io/)
 
 - 📫 How to reach us **datafenix360@gmail.com**
 
 - ⚡ We are expert in **Building E2E Pipelines | Data Visualization | Data Analytics | Data Science | Modeling**
+
+- 👨‍ Our main contributors 👨‍ :
+- ** Anuradha Dissanayake - ML Engineer | Data Scientist **
+- ** Shashi Withanage - Data Engineer | Data Analyst **
+- ** Thamal Adikari - ML Engineer | Data Scientist **
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
