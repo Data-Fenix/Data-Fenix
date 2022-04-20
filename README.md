@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Data-Fenix/Data-Fenix/blob/main/PNG%20format%20(2).png)](https://Data-Fenix.github.io)
 <h1 align="center">Hi 👋, We are Data Fenix👋</h1>
-<h3 align="center">We will help to solve all your Statistics, Data Scinece and AWS ML related questions !!</h3>
+<h3 align="center">We will help to solve all your Statistics, Data Science and AWS ML related questions !!</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Data-Fenix&label=Profile%20views&color=129e00&style=plastic" alt="Data-Fenix" /> </p>-->
 <img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
