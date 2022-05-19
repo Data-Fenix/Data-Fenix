@@ -3,7 +3,8 @@
 <h3 align="center">We will help to solve all your Statistics, Data Science and AWS ML related questions !!</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Data-Fenix&label=Profile%20views&color=129e00&style=plastic" alt="Data-Fenix" /> </p>-->
-<img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👨‍💻 You can also check out our portfolio at **https://data-fenix.github.io/Data-Fenix-portfolio/**
 
