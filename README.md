@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, We are Data Fenix👋</h1>
 <h3 align="center">We will help to solve all your Statistics, Data Science and AWS ML related questions !!</h3>
 
-- 👨‍💻 You can also check out our portfolio at **https://data-fenix.github.io/Data-Fenix-portfolio/**
+<p align="center"> 👨‍💻 You can also check out our portfolio at <b>https://data-fenix.github.io/Data-Fenix-portfolio/</b></p>
 
-- ⚡ We are expert in **Building E2E Pipelines | Data Visualization | Data Analytics | Data Science | Modeling**
-
+<p align="center"> ⚡ We are expert in <b>Building E2E Pipelines | Data Visualization | Data Analytics | Data Science | Modeling </b></p>
+<h2></h2>
 <h2 align="center">Experienced Data Scientist | Data Analyst | MLOps | AWS Expert</h2>
 
-<p> Are you struggling to get meaningful insights from your data? Need to get better data driven decisions to improve your business? Then you are in safe hands. I’m a professional data scientist, data analyst and MLOps Engineer with 5+ years of experience in Python, AWS, Excel, SPSS, Tableau and SQL. 
+<p> Are you struggling to get meaningful insights from your data? Need to get better data driven decisions to improve your business? Then you are in safe hands. We have professional data scientist, data analyst and MLOps Engineers with 5+ years of experience in Python, AWS, Excel, SPSS, Tableau and SQL. 
 
   <h2>❓The Frequent Business Challenges Faced by Our Clients:</h2>
 <ul>
@@ -111,14 +111,17 @@ We will help you in statistical data analysis tasks with comprehensive reports a
 <p> Data enthusiast with analytical skills and experience in applying quantitative techniques in developing marketing strategies. An avid traveler with the ability to think on her feet, work in teams with diverse backgrounds </p>
 
 - **Thamal Adikari - ML Engineer | Data Scientist**
+<img align="right" src="https://github.com/Data-Fenix/Data-Fenix/blob/main/Thamal.jpg" height = 100 width = 100>
+<p> I am a science graduand who is eager to develop a career in Statistics, Data Science and Data Engineering. I love to read and learn about economics and fascinated in using data to make strategic decisions. I enjoy extracting the story hidden behind a haystack of data.</p>
 
-
+<h2></h2>
 🔥 We guarantee you to provide the best and quality outputs with 100% satisfaction. 🔥
 
 🔥🔥 If you think We are the best fit for your task, Please contact us to discuss more details. 🔥🔥
 
 🖐🤝 See you soon! 🖐🤝
 
+<h2></h2>
 <h3 align="center">Connect with us:</h3>
 <p align="center">
 <!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="100" width="40" /></a> -->
