@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Data-Fenix/Data-Fenix/blob/main/PNG%20format%20(2).png)](https://Data-Fenix.github.io)
+[![MasterHead](https://github.com/Data-Fenix/Data-Fenix/blob/main/cover.png)](https://Data-Fenix.github.io)
 <h1 align="center">Hi 👋, We are Data Fenix👋</h1>
 <h3 align="center">We will help to solve all your Statistics, Data Science and AWS ML related questions !!</h3>
 
