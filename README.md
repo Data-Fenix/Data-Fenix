@@ -103,10 +103,12 @@ We will help you in statistical data analysis tasks with comprehensive reports a
 <h2> 👨‍ Our main contributors 👨‍ </h2>
 
 - **Anuradha Dissanayake - MLOps | ML Engineer | Data Scientist**
-<img align="right" src="https://data-fenix.github.io/Data-Fenix-portfolio/images/anuradha.jpg" width = 150>
+<img align="right" src="https://data-fenix.github.io/Data-Fenix-portfolio/images/anuradha.jpg" height = 100 width = 100>
 <p>I am an AI enthusiast and a data scientist having statistical background and professional experience. I have one year of experience as an ML Engineer and 8 months as a data scientist/data analyst intern. I am passionate in building end to end CI/CD pipelines using cloud platforms to save time, cost and resources of my company. I am an ambitious person who has developed a mature and responsible approach to any task I undertake. </p>
 
 - **Shashi Withanage - Data Engineer | Data Analyst**
+<img align="right" src="https://github.com/Data-Fenix/Data-Fenix/blob/main/Shashi.jpg" height = 100 width = 100>
+<p> Data enthusiast with analytical skills and experience in applying quantitative techniques in developing marketing strategies. An avid traveler with the ability to think on her feet, work in teams with diverse backgrounds </p>
 
 - **Thamal Adikari - ML Engineer | Data Scientist**
 
