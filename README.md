@@ -89,7 +89,16 @@ We will help you in statistical data analysis tasks with comprehensive reports a
 
 <h2 align = "left"> 🔥👇 List of Projects 🔥👇</h2>
 
-- <a href = "https://github.com/Data-Fenix/aws-sagemaker-training-job-customer-churn-prediction"> Customer Churn Prediction </a>
+- <a href = "https://github.com/Data-Fenix/aws-sagemaker-pipeline"> Customer Churn Prediction - E2E Pipeline </a>
+- <a href = "https://github.com/Data-Fenix/aws-sagemaker-training-job-customer-churn-prediction"> Customer Churn Prediction - Training Pipeline </a>
+- <a href = "https://github.com/Data-Fenix/aws-sagemaker-inference-job-customer-churn-prediction"> Customer Churn Prediction - Inference Pipeline </a>
+- <a href = "https://github.com/Data-Fenix/mobile-price-prediction"> Mobile Price Prediction </a>
+- <a href = "https://github.com/Data-Fenix/aws-sagemaker-training-job-mobile-price-prediction">  Mobile Price Prediction - Training Pipeline </a>
+- <a href = "https://github.com/Data-Fenix/Are-you-looking-for-best-hotel-to-stay"> Are you looking for best hotel to stay? </a>
+- <a href = "https://github.com/Data-Fenix/anomaly-detection"> Anomaly Detection </a>
+- <a href = "https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers"> Customer Discounts and Promotions </a>
+- <a href = "https://github.com/Data-Fenix/how-do-we-earn-more-than-50K-per-year"> How do we earn more than 50K per year</a>
+- <a> And many more </a>
 
 <h2> 👨‍ Our main contributors 👨‍ </h2>
 
