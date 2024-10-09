@@ -122,6 +122,65 @@ We will help you in statistical data analysis tasks with comprehensive reports a
 <a href="https://www.upwork.com/freelancers/~01f67268e746c95ccc?viewMode=1" target="blank"><img align="center" src="https://www.shareicon.net/data/2017/02/24/879424_upwork_512x512.png" height="30" width="40" /></a>
 </p>
 
+### 🔥 Featured Projects
+
+<!-- BEGIN PROJECTS -->
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Data-Fenix/aws-sagemaker-pipeline">
+        <img src="https://github.com/Data-Fenix/aws-sagemaker-pipeline/blob/main/demo/full.gif" alt="Customer Churn Prediction" width="250" height="150"/>
+      </a>
+      <br />
+      <a href="https://github.com/Data-Fenix/aws-sagemaker-pipeline"><b>Customer Churn Prediction - E2E Pipeline</b></a>
+      <p>An end-to-end machine learning pipeline for predicting customer churn, built on AWS SageMaker.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Data-Fenix/mobile-price-prediction">
+        <img src="https://github.com/Data-Fenix/mobile-price-prediction/blob/main/Images/mobile%20price.png" alt="Mobile Price Prediction" width="250" height="150"/>
+      </a>
+      <br />
+      <a href="https://github.com/Data-Fenix/mobile-price-prediction"><b>Mobile Price Prediction</b></a>
+      <p>A machine learning model that predicts mobile device prices based on specifications using Python.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Data-Fenix/anomaly-detection">
+        <img src="https://via.placeholder.com/250x150.png?text=Anomaly+Detection" alt="Anomaly Detection" width="250" height="150"/>
+      </a>
+      <br />
+      <a href="https://github.com/Data-Fenix/anomaly-detection"><b>Anomaly Detection</b></a>
+      <p>Detects anomalies in business data using advanced ML models, improving business decisions.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Data-Fenix/electricity-price-prediction">
+        <img src="https://via.placeholder.com/250x150.png?text=Electricity+Price+Prediction" alt="Electricity Price Prediction" width="250" height="150"/>
+      </a>
+      <br />
+      <a href="https://github.com/Data-Fenix/electricity-price-prediction"><b>Electricity Price Prediction</b></a>
+      <p>Forecasts electricity prices to help businesses optimize energy consumption and costs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers">
+        <img src="https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers/blob/main/K-means%20Clsutering.png" alt="Customer Discounts and Promotions" width="250" height="150"/>
+      </a>
+      <br />
+      <a href="https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers"><b>Customer Discounts and Promotions</b></a>
+      <p>Identifies key customers for promotions and discounts to boost sales and retention.</p>
+    </td>
+    <td align="center">
+      <!-- Add more projects here if needed -->
+    </td>
+  </tr>
+</table>
+
+</div>
+<!-- END PROJECTS -->
 
 
 
