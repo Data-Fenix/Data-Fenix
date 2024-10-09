@@ -156,12 +156,12 @@ We will help you in statistical data analysis tasks with comprehensive reports a
       <p>Detects anomalies in business data using advanced ML models, improving business decisions.</p>
     </td>
     <td align="center">
-      <a href="https://github.com/Data-Fenix/electricity-price-prediction">
-        <img src="https://via.placeholder.com/250x150.png?text=Electricity+Price+Prediction" alt="Electricity Price Prediction" width="250" height="150"/>
+      <a href="https://github.com/Data-Fenix/Are-you-looking-for-best-hotel-to-stay">
+        <img src="https://github.com/Data-Fenix/Are-you-looking-for-best-hotel-to-stay/blob/main/hotel_review_analysis.png" alt="Hotel Review Sentimental Analysis" width="250" height="150"/>
       </a>
       <br />
-      <a href="https://github.com/Data-Fenix/electricity-price-prediction"><b>Electricity Price Prediction</b></a>
-      <p>Forecasts electricity prices to help businesses optimize energy consumption and costs.</p>
+      <a href="https://github.com/Data-Fenix/Are-you-looking-for-best-hotel-to-stay"><b>Hotel Review Sentimental Analysis</b></a>
+      <p>Hotel Review Sentimental Analysis</p>
     </td>
   </tr>
   <tr>
