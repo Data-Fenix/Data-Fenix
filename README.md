@@ -4,7 +4,7 @@
 
 **`MLOps Consultant | MLOps Engineer | Data Analyst`**
 
-With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data Science**, I am passionate about leveraging technology to solve complex business problems. I specialize in creating **end-to-end ML solutions**, building automated **CI/CD pipelines**, and optimizing cloud infrastructure. My expertise lies in **AWS Cloud**, **data analytics**, and **machine learning**—and I’m on a mission to help businesses extract insights and drive actionable outcomes through data-driven solutions.
+With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data Science**, I am passionate about leveraging technology to solve complex business problems. I specialize in creating **end-to-end ML solutions**, building automated **CI/CD pipelines**, and optimizing cloud infrastructure. My expertise lies in **AWS Cloud**, **data analytics**, and **machine learning** and I’m on a mission to help businesses extract insights and drive actionable outcomes through data-driven solutions.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/anuradha-dissanayake-a33738181/"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Connect%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
