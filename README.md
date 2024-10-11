@@ -21,12 +21,7 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
 - **DevOps & MLOps**: CI/CD, Docker, GitHub Workflows, AWS CodeCommit, Flask
 - **Data Analytics**: Tableau, Excel, SPSS, Minitab
 - **Expertise**: Data Engineering, Machine Learning, Deep Learning, DevOps, Data Visualization
-
-
-
  
-  
-
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Data-Fenix&label=Profile%20views&color=129e00&style=plastic" alt="Data-Fenix" /> </p>-->
 
@@ -66,7 +61,7 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
   <tr>
     <td align="center">
       <a href="https://github.com/Data-Fenix/anomaly-detection">
-        <img src="https://via.placeholder.com/250x150.png?text=Anomaly+Detection" alt="Anomaly Detection" width="250" height="150"/>
+        <img src="https://github.com/Data-Fenix/anomaly-detection/blob/main/Pizza%20(1).png" alt="Anomaly Detection" width="250" height="150"/>
       </a>
       <br />
       <a href="https://github.com/Data-Fenix/anomaly-detection"><b>Anomaly Detection</b></a>
