@@ -97,6 +97,18 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
     </td>
      
   </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Data-Fenix/pedata-test/blob/main/DevOps%20Optimization.pdf">
+        <img src="https://github.com/Data-Fenix/pedata-test/blob/main/GitWorkflow.png" alt="DevOps Optimization" width="250" height="150"/>
+      </a>
+      <br />
+      <a href="https://github.com/Data-Fenix/pedata-test/blob/main/DevOps%20Optimization.pdf"><b>DevOps Optimization</b></a>
+      <p>DevOps Optimization</p>
+    </td>
+     
+  </tr>
    
 </table>
 
