@@ -86,9 +86,18 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
       <p>Identifies key customers for promotions and discounts to boost sales and retention.</p>
     </td>
     <td align="center">
-      <!-- Add more projects here if needed -->
+      <a href="https://github.com/Data-Fenix/Potato-Leaf-Disease-Classification/tree/main">
+        <img src="https://github.com/Data-Fenix/Potato-Leaf-Disease-Classification/blob/main/Cover%20Image.png" alt="Potato-Leaf-Disease-Classification
+" width="250" height="150"/>
+      </a>
+      <br />
+      <a href="https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers"><b>Potato Leaf Disease Classification
+</b></a>
+      <p>Potato Leaf Disease Classification.</p>
     </td>
+     
   </tr>
+   
 </table>
 
 </div>
