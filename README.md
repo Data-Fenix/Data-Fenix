@@ -91,7 +91,7 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
 " width="250" height="150"/>
       </a>
       <br />
-      <a href="https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers"><b>Potato Leaf Disease Classification
+      <a href="https://github.com/Data-Fenix/Potato-Leaf-Disease-Classification"><b>Potato Leaf Disease Classification
 </b></a>
       <p>Potato Leaf Disease Classification.</p>
     </td>
