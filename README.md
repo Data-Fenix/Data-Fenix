@@ -4,7 +4,7 @@
 
 **`MLOps Consultant | MLOps Engineer | Data Analyst`**
 
-With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data Science**, I am passionate about leveraging technology to solve complex business problems. I specialize in creating **end-to-end ML solutions**, building automated **CI/CD pipelines**, and optimizing cloud infrastructure. My expertise lies in **AWS Cloud**, **data analytics**, and **machine learning** and I’m on a mission to help businesses extract insights and drive actionable outcomes through data-driven solutions.
+With nearly 5 years of hands-on experience in **MLOps**, **DevOps**, and **Data Science**, I am passionate about leveraging technology to solve complex business problems. I specialize in creating **end-to-end ML solutions**, building automated **CI/CD pipelines**, and optimizing cloud infrastructure. My expertise lies in **AWS Cloud**, **data analytics**, and **machine learning** and I’m on a mission to help businesses extract insights and drive actionable outcomes through data-driven solutions.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/anuradha-dissanayake-a33738181/"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Connect%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -50,6 +50,16 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
       <p>An end-to-end machine learning pipeline for predicting customer churn, built on AWS SageMaker.</p>
     </td>
     <td align="center">
+      <a href="https://github.com/Data-Fenix/DRLSolver4DTSPEnhanced">
+        <img src="https://github.com/Data-Fenix/DRLSolver4DTSPEnhanced/blob/master/figures/DeepRLforTDTSP.gif" alt="Deep RL for Time-Dependent TSP" width="250" height="150"/>
+      </a>
+      <br />
+      <a href="https://github.com/Data-Fenix/DRLSolver4DTSPEnhanced"><b>Deep RL for Time-Dependent TSP (Master's Thesis)</b></a>
+      <p>Attention-based DRL framework for the deterministic TDTSP — extends the M1 baseline with Step-MLP, Cost-Aware Gating, and Time-Sliced Encoding. Outperforms classical heuristics by up to 6.8% at ~97,000× faster inference.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Data-Fenix/mobile-price-prediction">
         <img src="https://github.com/Data-Fenix/mobile-price-prediction/blob/main/Images/mobile%20price.png" alt="Mobile Price Prediction" width="250" height="150"/>
       </a>
@@ -57,8 +67,6 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
       <a href="https://github.com/Data-Fenix/mobile-price-prediction"><b>Mobile Price Prediction</b></a>
       <p>A machine learning model that predicts mobile device prices based on specifications using Python.</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Data-Fenix/anomaly-detection">
         <img src="https://github.com/Data-Fenix/anomaly-detection/blob/main/Pizza%20(1).png" alt="Anomaly Detection" width="250" height="150"/>
@@ -67,16 +75,16 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
       <a href="https://github.com/Data-Fenix/anomaly-detection"><b>Anomaly Detection</b></a>
       <p>Detects anomalies in business data using advanced ML models, improving business decisions.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Data-Fenix/Are-you-looking-for-best-hotel-to-stay">
         <img src="https://github.com/Data-Fenix/Are-you-looking-for-best-hotel-to-stay/blob/main/hotel_review_analysis.png" alt="Hotel Review Sentimental Analysis" width="250" height="150"/>
       </a>
       <br />
       <a href="https://github.com/Data-Fenix/Are-you-looking-for-best-hotel-to-stay"><b>Hotel Review Sentimental Analysis</b></a>
-      <p>Hotel Review Sentimental Analysis</p>
+      <p>NLP-powered sentiment analysis pipeline for hotel reviews, surfacing actionable quality signals.</p>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers">
         <img src="https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers/blob/main/K-means%20Clsutering.png" alt="Customer Discounts and Promotions" width="250" height="150"/>
@@ -85,29 +93,24 @@ With nearly 4 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
       <a href="https://github.com/Data-Fenix/Need-to-Provide-Discounts-and-Promotions-to-the-Customers"><b>Customer Discounts and Promotions</b></a>
       <p>Identifies key customers for promotions and discounts to boost sales and retention.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Data-Fenix/Potato-Leaf-Disease-Classification/tree/main">
-        <img src="https://github.com/Data-Fenix/Potato-Leaf-Disease-Classification/blob/main/Cover%20Image.png" alt="Potato-Leaf-Disease-Classification
-" width="250" height="150"/>
+        <img src="https://github.com/Data-Fenix/Potato-Leaf-Disease-Classification/blob/main/Cover%20Image.png" alt="Potato Leaf Disease Classification" width="250" height="150"/>
       </a>
       <br />
-      <a href="https://github.com/Data-Fenix/Potato-Leaf-Disease-Classification"><b>Potato Leaf Disease Classification
-</b></a>
-      <p>Potato Leaf Disease Classification.</p>
+      <a href="https://github.com/Data-Fenix/Potato-Leaf-Disease-Classification"><b>Potato Leaf Disease Classification</b></a>
+      <p>CNN-based image classifier for detecting potato leaf diseases, with practical applications in precision agriculture.</p>
     </td>
-     
-  </tr>
-
-  <tr>
     <td align="center">
       <a href="https://github.com/Data-Fenix/pedata-test/blob/main/DevOps%20Optimization.pdf">
         <img src="https://github.com/Data-Fenix/pedata-test/blob/main/GitWorkflow.png" alt="DevOps Optimization" width="250" height="150"/>
       </a>
       <br />
       <a href="https://github.com/Data-Fenix/pedata-test/blob/main/DevOps%20Optimization.pdf"><b>DevOps Optimization</b></a>
-      <p>DevOps Optimization</p>
+      <p>CI/CD pipeline optimization using GitHub Workflows, reducing deployment friction and improving release velocity.</p>
     </td>
-     
   </tr>
    
 </table>
