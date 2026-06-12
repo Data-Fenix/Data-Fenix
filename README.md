@@ -55,7 +55,7 @@ With nearly 5 years of hands-on experience in **MLOps**, **DevOps**, and **Data 
       </a>
       <br />
       <a href="https://github.com/Data-Fenix/DRLSolver4DTSPEnhanced"><b>Deep RL for Time-Dependent TSP (Master's Thesis)</b></a>
-      <p>Attention-based DRL framework for the deterministic TDTSP — extends the M1 baseline with Step-MLP, Cost-Aware Gating, and Time-Sliced Encoding. Outperforms classical heuristics by up to 6.8% at ~97,000× faster inference.</p>
+      <p>Attention-based DRL for deterministic TDTSP, extending M1 with Step-MLP, Cost-Aware Gating, and Time-Sliced Encoding. Achieves up to 6.8% better solutions with ~97,000× faster inference.</p>
     </td>
   </tr>
   <tr>
